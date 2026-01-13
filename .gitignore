@@ -1,0 +1,14 @@
+# Ignorar arquivos do PyCharm
+.idea/
+*.iml
+*.xml
+*.ipr
+*.iws
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambiente virtual
+venv/
+env/
